@@ -1,5 +1,3 @@
-# myPortfolio
-
 I am a Graduate student doing my Masters in Robotics at the Robotics Institute in the University of Michigan - Ann Arbor. I am
 also currently working part time at Honda R&D Americas, LLC as a Student Associate in their vehicle-vehicle communication team.
 
