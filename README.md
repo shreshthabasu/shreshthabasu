@@ -9,7 +9,7 @@ Prior to my studies at Michigan, I worked at Wipro Ltd. in the Robotics CTO team
 
 A few of the projects I've worked on so far are listed below:
 
-### Botlab
+### [Botlab](https://github.com/shreshthabasu/BotLab)
 
 This project involves coding on an MBot, a mobile robot with differential drive, equiped with magnetic encoders, 2D Lidar and a MEMS 3-axis IMU. The MBot is driven around different maps, and LCM logs are collected. Due to the COVID-19 pandemic, a python based physics simulator was used instead of the actual MBot. The logs along with the simulator was used to perform the following tasks:
 
@@ -25,9 +25,8 @@ This project involves coding on an MBot, a mobile robot with differential drive,
     * A* path planning: Algorithm used by robot to plan a path to the goal
     * Exploration: Detection of frontiers (borders between free space and unexplored space) and move towards them to explore the whole map
 
-More information and the code for this project can be found [here](https://github.com/shreshthabasu/BotLab)
 
-### ArmLab
+### [ArmLab](https://github.com/shreshthabasu/armlab)
 
 The objective of this project is to program a 6 DOF robot manipulator to perform pick-and-place of colored cubes based on the Kinect sensor. The tasks required to be complete this project can be broken down into two categories:
 
@@ -48,9 +47,8 @@ The objective of this project is to program a 6 DOF robot manipulator to perform
 
     * **Forward/Inverse Kinematics**: Update DH parameters to achieve the orientation and position of end effector. For IK, the joint positions for end effector pose is calculated
 
-Code for this project can be found [here](https://github.com/shreshthabasu/armlab)
 
-### Tribot Simulations
+### [Tribot Simulations](https://github.com/shreshthabasu/robot_chase)
 
 This project comprises of a C based physics simulator to emulate robot movement and collision resolution, path planning using a recursive tree search, and a graphics generator to display the environment. The aim of the program is for a chaser robot to catch the runner robot which performs a random walk in the map environment.
 
@@ -60,9 +58,8 @@ This project comprises of a C based physics simulator to emulate robot movement 
 
 3. **Graphics**: Implemented code to draw lines, figures, and fill figures.
 
-The code for this project can be found [here](https://github.com/shreshthabasu/robot_chase)
 
-### DeepFake Detection
+### [DeepFake Detection](https://github.com/shreshthabasu/Deepfake-Detection)
 
 This project compares different Spatio-temporal Neural Network architectures to detect deepfakes on the Celeb-DF dataset. The architectures we are comparing are listed below:
 
@@ -74,8 +71,4 @@ This project compares different Spatio-temporal Neural Network architectures to 
 
 4. ResNet (2+1)D - Approximates 3D convolutions by using a 2D convolution followed by a 1D convolution separately
 
-5. I3D - inflates  filters  and  pooling  kernels  of  deep  classifica-tion ConvNets to 3D, thus allowing spatiotemporal featuresto be learnt using existing successful 2D architectures pre-trained on ImageNet
-
-The code for this project can be found [here](https://github.com/shreshthabasu/Deepfake-Detection)
-
-
+5. I3D - inflates  filters  and  pooling  kernels  of  deep  classification ConvNets to 3D, thus allowing spatiotemporal featuresto be learnt using existing successful 2D architectures pre-trained on ImageNet
