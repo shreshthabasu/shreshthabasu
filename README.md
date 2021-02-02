@@ -59,7 +59,7 @@ This project comprises of a C based physics simulator to emulate robot movement 
 3. **Graphics**: Implemented code to draw lines, figures, and fill figures.
 
 
-### [DeepFake Detection](https://github.com/shreshthabasu/Deepfake-Detection)
+### [DeepFake Detection](https://github.com/oidelima/Deepfake-Detection)
 
 This project compares different Spatio-temporal Neural Network architectures to detect deepfakes on the Celeb-DF dataset. The architectures we are comparing are listed below:
 
