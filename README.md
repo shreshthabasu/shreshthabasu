@@ -1,9 +1,9 @@
 I am a Graduate student doing my Masters in Robotics at the Robotics Institute in the University of Michigan - Ann Arbor. I am
-also currently working part time at Honda R&D Americas, LLC as a Student Associate in their vehicle-vehicle communication team.
+also currently working part time at Honda R&D Americas, LLC as a Student Associate and contribting to their sensor fusion stack.
 
-I am interested in Computer Vision and Deep Learning, especially in their role in robot perception.
+I am interested in robot perception.
 
-Prior to my studies at Michigan, I worked at Wipro Ltd. in the Robotics CTO team as a Senior Project Engineer. I was mainly involved in building solutions for robot decision making and task planning.
+Prior to my studies at Michigan, I worked at Wipro Ltd. in the Robotics CTO team as a Senior Project Engineer. I was mainly involved in building solutions for robot decision making and task planning. I also did a summer internship at Refraction AI, where I worked on lane tracking.
 
 ## Projects
 
